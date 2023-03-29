@@ -17,5 +17,8 @@ hello World! hello git!
 hello World! hello git!
 hello World! hello git!
 hello World! hello git!
+<<<<<<< HEAD
 hello World! hello git! master
-hello World! hello git!
+=======
+hello World! hello git! hot-fix
+>>>>>>> hot-fix
